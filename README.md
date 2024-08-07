@@ -9,11 +9,13 @@
 
 ###
 
-<img align="right" height="150" src="https://image.noelshack.com/fichiers/2024/32/3/1723037683-anime.gif"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Xeless/count.svg?"  />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -30,6 +32,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://image.noelshack.com/fichiers/2024/32/3/1723037683-anime.gif"  />
 
 ###
 
