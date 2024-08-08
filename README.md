@@ -93,7 +93,7 @@ Interest = ['Coding ❣️']
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+
 <details>
 <summary>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐</summary>
 <h2 align="center"><b>🤙⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐🤙
@@ -106,7 +106,9 @@ Interest = ['Coding ❣️']
 [![github](https://img.shields.io/badge/GitHub-0072c6?style=for-the-badge&logo=github)](https://github.com/Xeless)
 </b></h2>
 </details>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+
+
 
 ### 🧑‍💻Random Cyber Quote
 [![Readme Quotes](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=algolia&border=true)](https://github.com/hackelite01/github-readme-cyber-quotes)
