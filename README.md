@@ -121,7 +121,7 @@ Interest = ['Coding ❣️']
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🎵 Now playing
-[![Spotify](novatorem-gilt-one.vercel.app/api/spotify)](https://open.spotify.com/user/7hshaxawtkflhg4pd9pv97ene)
+[![Spotify](https://novatorem-xeless-xeless-projects.vercel.app//api/spotify)](https://open.spotify.com/user/7hshaxawtkflhg4pd9pv97ene)
 
 
 
