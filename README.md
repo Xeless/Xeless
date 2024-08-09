@@ -121,7 +121,7 @@ Interest = ['Coding ❣️']
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🎵 Now playing
-[![Spotify](https://hackathon-lwozyl7qu-xeless-projects.vercel.app)](https://open.spotify.com/user/7hshaxawtkflhg4pd9pv97ene)
+[![Spotify](https://spotify-readme-8qxg5wyq2-xeless-projects.vercel.app/api/spotify)](https://open.spotify.com/user/7hshaxawtkflhg4pd9pv97ene)
 
 
 
