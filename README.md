@@ -123,7 +123,7 @@ Interest = ['Coding ❣️']
 ## 🎵 Now playing
 [![Spotify](https://novatorem-xeless-xeless-projects.vercel.app/api/spotify)](https://open.spotify.com/user/7hshaxawtkflhg4pd9pv97ene)
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem-xeless-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/7hshaxawtkflhg4pd9pv97ene)
+  [![Spotify](novatorem-gilt-one.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/7hshaxawtkflhg4pd9pv97ene)
 </div>
 
 
