@@ -120,14 +120,19 @@ Interest = ['Coding ❣️']
 <h2 align="center"><b>🤙⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐🤙
   <br>
   <br>
-  
-  
-[![Gmail](https://img.shields.io/badge/Email-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](mailto:tomdelintepro@gmail.com)
-
-[![github](https://img.shields.io/badge/GitHub-0072c6?style=for-the-badge&logo=github)](https://github.com/Xeless)
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="mailto:tomdelintepro@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 </b></h2>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+###
 
 
 
