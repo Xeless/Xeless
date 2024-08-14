@@ -57,6 +57,9 @@ Interest = ['Coding ❣️']
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 
+
+
+
 <details>
 <summary>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐</summary>
 <h2 align="center"><b>💓⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐💓
@@ -96,6 +99,19 @@ Interest = ['Coding ❣️']
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<details>
+<summary>⠂I Learn Languages⠂</summary>
+<h2 align="center"><b>📚⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐📚
+<br>
+<br>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeless&layout=compact&theme=midnight-purple&hide=Css">
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeless&layout=compact&theme=midnight-purple&hide=Css" />
+</a>
+</b></h2>  
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+
 
 
 <details>
@@ -110,7 +126,7 @@ Interest = ['Coding ❣️']
 [![github](https://img.shields.io/badge/GitHub-0072c6?style=for-the-badge&logo=github)](https://github.com/Xeless)
 </b></h2>
 </details>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
