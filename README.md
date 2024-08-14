@@ -44,7 +44,7 @@ Interest = ['Coding ❣️']
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
-<summary>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎s⠂</summary>
+<summary>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎s ⠂</summary>
 <h2 align="center"><b>📚⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐📚
 <br>
 <br>
@@ -100,8 +100,8 @@ Interest = ['Coding ❣️']
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
-<summary>⠂I Learn Languages⠂</summary>
-<h2 align="center"><b>📚⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐📚
+<summary>⠂I Learn Languages ⠂</summary>
+<h2 align="center"><b>📚⠂I Learn Languages⠐📚
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeless&layout=compact&theme=midnight-purple&hide=Css">
